@@ -1,0 +1,148 @@
+
+
+a:link {
+       color: #5F6368;
+       text-decoration: none; 
+    }
+a:hover {
+    color: black;
+}
+
+a:visited {
+        text-decoration: none;
+        color: #5F6368;
+}
+
+#navbar{
+    position:fixed;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: arial, sans-serif;
+    font-size: 10pt;
+    
+}
+#about {
+    font-family: arial, sans-serif;
+    padding: 6px;
+    font-size: 10pt;
+}
+#store {
+    padding: 6px;
+    font-family: arial, sans-serif;
+    font-size: 10pt;
+}
+#gmail {
+    font-family: arial, sans-serif;
+    padding: 6px;
+    font-size: 10pt;
+    position: fixed;
+    right: 200px;
+}
+#images {
+    padding: 6px;
+    font-family: arial, sans-serif;
+    font-size: 10pt;
+    position: fixed;
+    right: 130px;
+}
+#sign-in {
+    padding: 8px;
+    font-family: arial, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    background-color: #0078ff;
+    border-radius: 5%;
+    border-style: none;
+    color: white;
+    position: fixed;
+    right: 30px;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90px;
+    width: 280px;
+    padding: 10px;
+    margin-top: 160px;
+
+}
+#footer {
+    position:fixed;
+    bottom: 0;
+    font-family: arial, sans-serif;
+    font-size: 10pt;
+    width: 100%;
+    background-color: whitesmoke;
+    color: #5F6368;
+    height: 42px;
+    font-weight: lighter;
+      
+}
+#advertising {
+    position: absolute;
+    padding: 12px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+#business {
+    position: absolute;
+    padding: 12px;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+#how {
+    position: absolute;
+    padding: 12px;
+    vertical-align: middle;
+    margin-left: 180px;
+}
+
+#privacy {
+    position: absolute;
+    padding: 12px;
+    vertical-align: middle;
+    margin-left: 830px;
+}
+#terms {
+    position: absolute;
+    padding: 12px;
+    vertical-align: middle;
+    margin-left: 900px;
+}
+#settings {
+    position: absolute;
+    padding: 12px;
+    vertical-align: middle;
+    margin-left: 970px;
+}
+#searchbar {
+    display: block;
+    padding: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    border-end-end-radius: 35%;
+}
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 8px;
+    border-style: none;
+    font-weight: lighter;
+    text-align: center;
+    border-radius: 3px;
+    height: 35px;
+    width: 125px;
+}
+.buttons{
+       display: flex;
+       flex-direction: row;
+       justify-content: center;
+
+    }
+.btn-spacing {
+    margin-right: 10px;
+}
+
